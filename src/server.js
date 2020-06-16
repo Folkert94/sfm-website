@@ -1,7 +1,19 @@
 import express from 'express';
 
+const PORT = process.env.HTTP_PORT || 4001;
 const app = express();
 
-app.get('/hello', (req, res) => res.send('Hello'));
+app.get('/', (req, res) => {
+    res.send('just gonna send it')
+});
 
-app.listen(8000, () => console.log("Listening on port 8000"));
+app.get('/flower', (req, res) => {
+    res.json({
+        name: 'Dandelion',
+        colour: 'Blue-ish'
+    });
+});
+
+app.listen(PORT, () => {
+    console.log(`Server listening on port ${PORT}.`);
+});
