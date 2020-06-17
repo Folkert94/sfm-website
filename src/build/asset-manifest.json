@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a892a8d7.chunk.css",
+    "main.js": "/static/js/main.ffdddf18.chunk.js",
+    "main.js.map": "/static/js/main.ffdddf18.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.19efa801.js",
+    "runtime-main.js.map": "/static/js/runtime-main.19efa801.js.map",
+    "static/css/2.f030d906.chunk.css": "/static/css/2.f030d906.chunk.css",
+    "static/js/2.13c1af94.chunk.js": "/static/js/2.13c1af94.chunk.js",
+    "static/js/2.13c1af94.chunk.js.map": "/static/js/2.13c1af94.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.c42643e52bbd3cd753dd9ba9a678eacc.js": "/precache-manifest.c42643e52bbd3cd753dd9ba9a678eacc.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.f030d906.chunk.css.map": "/static/css/2.f030d906.chunk.css.map",
+    "static/css/main.a892a8d7.chunk.css.map": "/static/css/main.a892a8d7.chunk.css.map",
+    "static/js/2.13c1af94.chunk.js.LICENSE.txt": "/static/js/2.13c1af94.chunk.js.LICENSE.txt",
+    "static/media/sfm-logo.740c9720.svg": "/static/media/sfm-logo.740c9720.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19efa801.js",
+    "static/css/2.f030d906.chunk.css",
+    "static/js/2.13c1af94.chunk.js",
+    "static/css/main.a892a8d7.chunk.css",
+    "static/js/main.ffdddf18.chunk.js"
+  ]
+}
